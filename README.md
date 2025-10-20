@@ -1,9 +1,10 @@
-- 👋 Hi, I’m @ShivaAbbidi
-- 👀 I’m interested in Content creating
-- 🌱 I’m currently learning pymongo
-- 💞️ I’m looking to collaborate on developing
-- 📫 How to reach me u2733483@uel.ac.uk
-- 😄 Pronouns:    
+Hi, I’m @shivaabbidi
+👀 I’m interested in Data Science, Deep Learning, Machine Learning
+🌱 I’m currently learning Deep Learning, RAG, Agents, Multimodals, LLM's, Azure etc.,.
+💞️ I’m looking to collaborate on Open Source Contributions.
+🤖 I Coustmized the Langchain existing Agent and made more efficient than the existing Agent.
+📫 How to reach me sandeepkonadam@gmail.com
+😄 Pronouns: He/Him
 - ⚡ Fun fact: Git doesn't allow all developers to view shared code in one location.
 
 <!---
